@@ -1,0 +1,69 @@
+body{
+  margin: 0;
+  background-image: url("../assets/images/patterm.png");
+}
+/* Estilos de personas.php*/
+#registrarPersona{
+    width: 50%;
+    display: none;
+    margin-left: 270px;
+}
+#cancelarRegistro{
+    display: none;
+}
+#guardarRegistro{
+    display: none;
+}
+
+/*Estilos de equipos.php*/
+#registrarEquipo{
+    width: 50%;
+    display: none;
+    margin-left: 270px;
+}
+#cancelarRegistro{
+    display: none;
+}
+#guardarEquipo{
+    display: none;
+}
+
+/*Estilos de perifericos.php*/
+#registrarPeriferico{
+    width: 50%;
+    display: none;
+    margin-left: 270px;
+}
+#registrarTipo{
+    width: 50%;
+    display: none;
+    margin-left: 270px;
+}
+#cancelarRegistro{
+    display: none;
+}
+#guardarPeriferico{
+    display: none;
+}
+#cancelarRegistroTipo{
+    display:none;
+}
+#guardarTipo{
+    display: none;
+}
+
+/*Estilos vistaPersonas*/
+#vistaP_Equipos{
+  display: none;
+}
+#vistaP_Perfifericos{
+  display: none;
+}
+
+/*Estilo constraseña nueva*/
+#cambiarContra{
+    display: none;
+}
+#btnCancelar{
+    display: none;
+}
